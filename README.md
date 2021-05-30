@@ -1,16 +1,12 @@
-### Hi there 👋
+# ℹ️ Blackboard
+* Commissions are currently closed ❌
+* Current projects: XUI, Chlorine: Rebleached & Vapor
+* Discord: KitsuneAlex#0001 or [join the server!](https://discord.gg/GctpZahUgm)
 
-<!--
-**KitsuneAlex/KitsuneAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧑 About
+My name's Alex, i am 20 years old and i come from Lower Saxony, Germany. I've been programming for over 6 years at this point and i spend most of my time<br>
+writing Minecraft mods or other standalone software. I am a huge JetBrains enthusiast as well as being a Debian lover.<br>
+I also pretend to be a fox on the internet sometimes 🦊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🏆 Top 3 Languages
+<h3>🥇 Kotlin | 🥈 C++ | 🥉 Java</h3>
