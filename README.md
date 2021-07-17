@@ -1,6 +1,6 @@
 # ℹ️ Blackboard
 * Commissions are currently closed ❌
-* Current projects: XUI, Chlorine: Rebleached & Vapor
+* Current projects: XUI & MCLR
 * Discord: KitsuneAlex#0001 or [join the server!](https://discord.gg/GctpZahUgm)
 
 # 🧑 About
