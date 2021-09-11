@@ -1,5 +1,5 @@
 # ℹ️ Blackboard
-* Commissions are currently closed ❌
+* Commissions are currently open! ✔️🎉
 * Current projects: XUI & MCLR
 * Discord: KitsuneAlex#0001 or [join the server!](https://discord.gg/GctpZahUgm)
 
